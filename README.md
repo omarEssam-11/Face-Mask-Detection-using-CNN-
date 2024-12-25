@@ -16,18 +16,6 @@ categories: "with mask" and "without mask." contributing to public health safety
   1. We make a mask/no_mask prediction for each of them
   2. We return an annotated image with the predictions
 
-## Team Collaboration 
-- Collaboration 
-  - We worked together closely, ensuring smooth communication and 
-mutual support throughout the development process.
-- Team Meeting 
-  - meeting one: We proposed the project idea and conducted a comprehensive study on 
-the requirements needed for the project.
-  - meeting two: We collected the appropriate dataset to start the project and divided the 
-tasks, including coding and optimization. 
-  - meeting three: We implemented the necessary algorithms for the project and trained 
-the model on different datasets so that it can classify new datasets as we intend.
-  - meeting four: We We had a Zoom meeting before the discussion to review the entire project.
 
 ### Technical Methodology 
 - Tools and Technologies
