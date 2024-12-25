@@ -58,18 +58,14 @@ the model on different datasets so that it can classify new datasets as we inten
 <img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/arch.png" width="600px">
 
 ### Evaluation
-- *Metrics*
-
-- *Confusion Matrix*
+- *Accuracy*
+  
+<img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/Screenshot%202024-12-26%20004055.png">
 
 - *Classification Report*
 
-
 <img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/Screenshot%202024-12-26%20003309.png">
+
+- *Confusion Matrix*
+
 <img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/conmatrix.png">
-<img src="_results__19_0.png">
-
-### Passing input images to the model for testing
-
-<img src="_results__23_1.png">
-<img src="_results__23_3.png">
