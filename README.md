@@ -55,7 +55,7 @@ the model on different datasets so that it can classify new datasets as we inten
 - *Train Test Split*:  70% for training, 20% for testing , 10% for validation
 - *Model Architecture: We employed a **Convolutional Neural Network (CNN)* architecture, which optimized for binary classification.
 
-<img src="_results__22_0.png" width="600px">
+<img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/arch.png" width="600px">
 
 ### Evaluation
 - *Metrics*
@@ -65,8 +65,8 @@ the model on different datasets so that it can classify new datasets as we inten
 - *Classification Report*
 
 
-<img src="Accuracy.png">
-<img src="_results__19_1.png">
+<img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/Screenshot%202024-12-26%20003309.png">
+<img src="https://github.com/omarEssam-11/Face-Mask-Detection-using-CNN-/blob/main/src/conmatrix.png">
 <img src="_results__19_0.png">
 
 ### Passing input images to the model for testing
