@@ -1,5 +1,4 @@
-# Documentation
-## Face Mask Detection
+# Face Mask Detection
 The project aims to develop a real-time face mask detection system using 
 Convolutional Neural Networks. This project will ensure compliance with mask
 wearing in public spaces and  classify them into two 
